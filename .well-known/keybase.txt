@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/zekefeu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zekefeu.github.io
+  * I am zekefeu (https://keybase.io/zekefeu) on keybase.
+  * I have a public key with fingerprint 67D8 5335 08C2 BEF9 B0F3  8D2B CA4D 612F 3845 CCC7
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01165a103b72111fbb85f80d1efb715ad76aba7d967b34c013064154e420af3f605d0a",
+      "fingerprint": "67d8533508c2bef9b0f38d2bca4d612f3845ccc7",
+      "host": "keybase.io",
+      "key_id": "ca4d612f3845ccc7",
+      "kid": "01165a103b72111fbb85f80d1efb715ad76aba7d967b34c013064154e420af3f605d0a",
+      "uid": "a2f29ebce0d01c69793383662bc0a419",
+      "username": "zekefeu"
+    },
+    "merkle_root": {
+      "ctime": 1671796952,
+      "hash_meta": "803473f6551cca1f4b41becccda0fb70ad9f3effe0f2fff83f458acb5cef66cb",
+      "seqno": 23758714
+    },
+    "revoke": {
+      "sig_ids": [
+        "509be39c11ad5b65f0e91f888eb608d68b2e279aaf5ca235bb1ed5388d2b79ae0f"
+      ]
+    },
+    "service": {
+      "hostname": "zekefeu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1671796974,
+  "expire_in": 157680000,
+  "prev": "56a849a424f715abf7ec6a84cf94eb016a7aafc043f1b727e52420c604314bc4",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMHHAnicrVO/axRBFN6oUQwERUMKC8ENgkWIMzu/r5cIInY2ouf8eHO3XHJ77u6d
+JiGdQewsBbEJ2FqIWIhpgqJoCvuAmH/Af0Awvj0VUSydZpg33/ve974383r6YDI1
++/6yPa8v7Lyd+LC9Okz8k4df1lJXhJW0tZb2YLzBUoCqbvfykLZSQqkUlhLmVEYp
+jc5pETUJFKJTVNigpHVWBSOVY9wTyojkVHDgGbGRRUlEIDadT2Pe70A5KPN+jbRS
+BS0YE0T7zEE0jkSmQ+a85UHSDA9ceO8VJnaLqslAcc5WsJAXGMNDeyzvH/j/rHs4
+prNZzAw4DyQQ6qVRhjHNpETFxHJqGmAFZd8uA6JXoQcRhun6fLoMZW8J2mVR1I23
+vs4bBJWKKiONyLA/W3Xby1BbTNSEcYXFhaDeWxq549QBNhYsQd3EBhMZxAgkZjFG
+zSIX2nonPEQpvUMZFdzqF2krY0poRTlKKGFU9KCpXuUdtK1KW9dSQYwDZjylNggn
+RSRgaNRag5NEB6ldBpky1kbhbcaEcxSCYLoZEoZRQHp9valWjnI/Jm/m9Gf/C528
+7g7dj5ENyqIufLGE1926HlStxp16ZdDgb4Nr/2Rqu7wf8KlgxgjKKi/66BYi/zJO
+8fkU7gzyEtp5gxBKaoKrqQMjpBTSam4sz3hsxu2iAt+EfDQcHKHSKuzNE84ixSei
+QGQ4eS8xQLnz/LeTWKm2HaRE9/q2HpaQrm/fOJTMTiWHJw80PyiZOnr817/a35xI
+jnxK7m5tPb//8dKbvd0rL6+evzjHH22cfHrmxeRns7i+M5HMzZz76k65V3v3Tj+b
+Xtxs3Tz2oPft7MbM/uPdwYm1d5PfAbM/I9I=
+=06FQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zekefeu
+
+==================================================================
